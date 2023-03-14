@@ -2,4 +2,6 @@
 
 This directory helps to translate SAYME and other projects
 
-SAYME - UPicture - Beosmo Advertising
+- [SAYME](https://sayme.app) 
+- [UPicture](https://upictu.re) 
+- [Beosmo Advertising](https://ads.beosmo.com) 
