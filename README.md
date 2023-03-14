@@ -1,3 +1,7 @@
-# SAYME-Translate
+# Translate
 
-File to participate in SAYME translation
+This directory helps to translate SAYME and other projects
+
+SAYME
+UPicture
+Beosmo Advertising
