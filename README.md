@@ -7,3 +7,8 @@ This directory helps to translate SAYME and other projects
 - [SAYME Developer](https://developer.sayme.app/) 
 - [UPicture](https://upictu.re) 
 - [Beosmo Advertising](https://ads.beosmo.com) 
+
+## Authors
+
+- [@JurassicPrimal](https://www.github.com/JurassicPrimal)
+- [@olagdev](https://www.github.com/olagdev)
