@@ -455,5 +455,32 @@
     "language_422": "Name", 
     "language_423": "Renaming a Folder",
     "language_424": "Create a folder",
-    "language_425": "Private" 
+    "language_425": "Private",
+    "language_426": "SAYME - Security alert",
+    "language_427": "SAYME Connect",
+    "language_428": "NEW CONNECTION",
+    "language_429": "This email was sent to you to inform<br>you of a new connection to your account.",
+    "language_430": "NEW CONNECTION ON",
+    "language_431": "We detected a new connection to your SAYME account on",
+    "language_432": "on the site",
+    "language_433": ". If this was you, no action on your part is required. If you are not the originator of this connection, please promptly notify SAYME and change your password.",
+    "language_434": "Access my account",
+    "language_435": "Automatic Email",
+    "language_436": "SAYME Registration",
+    "language_437": "This email was sent to you to inform you <br>d&#39;a registration on SAYME.",
+    "language_438": "WELCOME TO SAYME",
+    "language_439": "Hello, We confirm your registration on SAYME on",
+    "language_440": "If this was you, no action on your part is required. If you are not the originator of this registration, please notify SAYME promptly.<br>Please validate your account now so that you can fully use Sayme&#39;s features. Click the button below to complete the process.",
+    "language_441": "Access my account",
+    "language_442": "Automatic Email",
+    "language_443": "SAYME - Registration",
+
+    "language_444": "SAYME Connect allows you to connect to websites with a single account.",
+    "language_445": "By clicking on ''Register'' you accept our T&Cs, <a href='https://docs.beosmo.com/t/conditions-d-utilisations-de-sayme'>Available here</a>.",
+    "language_446": "Optional",
+    "language_447": "Background Image URL",
+    "language_448": "Validate my Account",
+    "language_449": "We have sent an email to allow you to finalize the validation of your SAYME account.",
+    "language_450": "Account Validation"
+
 }
